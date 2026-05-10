@@ -1,0 +1,18 @@
+​
+Eliel mulumba​
+body {
+    background-color: #460d9c;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #1e0252;
+    font-size: 48px;
+}
+
+#gameResult {
+    font-size: 28px;
+    color: #ad0f79;
+    margin-top: 30px;
+}
